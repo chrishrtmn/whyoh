@@ -1,6 +1,6 @@
 # WhyOH
 
-A website about why we love living and working in Ohio: [why.oh](http://why.oh/). The illustrations on this site are drawn with HTML and CSS. Read more about it on Lynn Fisher's blog: [Why WhyAZ?](https://lynnandtonic.com/thoughts/entries/why-whyaz/)
+A website about why we love living and working in Ohio: [why.oh](http://why.oh/).
 
 The site is maintained by [Chris Hartman](https://github.com/chrishrtmn). Reach out with questions: [@chrishrtmn](https://x.com/chrishrtmn) on X.
 
