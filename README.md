@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# WhyOH
 
-## Getting Started
+A website about why we love living and working in Ohio: [why.oh](http://why.oh/). The illustrations on this site are drawn with HTML and CSS. Read more about it on Lynn Fisher's blog: [Why WhyAZ?](https://lynnandtonic.com/thoughts/entries/why-whyaz/)
 
-First, run the development server:
+The site is maintained by [Chris Hartman](https://github.com/chrishrtmn). Reach out with questions: [@chrishrtmn](https://x.com/chrishrtmn) on X.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Contributing
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Help make WhyOH even better.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Please feel free to [submit an issue](https://github.com/chrishrtmn/whyoh/issues) with ideas, comments, or additional content to add. Or comment on any existing issues to keep the conversation going.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+If you would like to contribute via pull request, please follow the editing guidelines below.
 
-## Learn More
+### What kind of content?
 
-To learn more about Next.js, take a look at the following resources:
+Submit any reasons you love Ohio: cool places to eat, drink, or visit, fun facts about the state or its cities, or anything else you think would be interesting. Our main purpose is to share with the world the many reasons we think Ohio is a great place to live, work, and visit and content will be incorporated as it aligns with this goal.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+WhyOH will not feature advertisements, political support, or discriminatory content.
