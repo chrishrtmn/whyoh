@@ -1,8 +1,6 @@
 # WhyOH
 
-A website about why we love living and working in Ohio: [why.oh](http://why.oh/).
-
-The site is maintained by [Chris Hartman](https://github.com/chrishrtmn). Reach out with questions: [@chrishrtmn](https://x.com/chrishrtmn) on X.
+Inspired by [Lynn Fisher](https://lynnandtonic.com/) for her work on [WhyAZ](https://why.az/).
 
 ## Contributing
 
@@ -17,3 +15,5 @@ If you would like to contribute via pull request, please follow the editing guid
 Submit any reasons you love Ohio: cool places to eat, drink, or visit, fun facts about the state or its cities, or anything else you think would be interesting. Our main purpose is to share with the world the many reasons we think Ohio is a great place to live, work, and visit and content will be incorporated as it aligns with this goal.
 
 WhyOH will not feature advertisements, political support, or discriminatory content.
+
+The site is maintained by [Chris Hartman](https://github.com/chrishrtmn). Reach out with questions: [@chrishrtmn](https://x.com/chrishrtmn) on X.
